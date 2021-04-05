@@ -1,8 +1,8 @@
 ### Hi [关东煮小熊仔](https://www.xiaoxiongzai.fun) 👋
 
 
- 🔭 在云泰数据中心学习
- 🌱 自学HTML，CSS,JS等前端语言
+- 🔭 在云泰数据中心学习</br>
+- 🌱 自学HTML，CSS,JS等前端语言
  <--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
