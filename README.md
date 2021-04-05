@@ -1,12 +1,12 @@
-### Hi 关东煮小熊仔 👋
+### Hi [关东煮小熊仔](https://www.xiaoxiongzai.fun) 👋
 
 <!--
 **Axiano/Axiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ 🔭 在云泰数据中心学习
+ 🌱 自学HTML，CSS,JS等前端语言
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axiano)](https://github.com/anuraghazra/github-readme-stats)
-                                </div><div data-report-view="{&quot;mod&quot;:&quot;1585297308_001&quot;,&quot;dest&quot;:&quot;https://blog.csdn.net/zwluoyuxi/article/details/107600491&quot;,&quot;extend1&quot;:&quot;pc&quot;,&quot;ab&quot;:&quot;new&quot;}"><div></div></div>
-            <link href="https://csdnimg.cn/release/phoenix/mdeditor/markdown_views-60ecaf1f42.css" rel="stylesheet">
-                            </div>
 
 
