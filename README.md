@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 关东煮小熊仔 👋
 
 <!--
 **Axiano/Axiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBp?x-oss-process=image/format,png)](https://github.com/anuraghazra/github-readme-stats)
+
